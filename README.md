@@ -119,4 +119,6 @@ This MVP has mock identity/contact actions, remote image URLs, basic keyword/loc
 
 ## Screenshots
 
+<img width="1908" height="906" alt="image" src="https://github.com/user-attachments/assets/f23e87ec-3dec-4fc1-9b82-9ddebeb776c1" />
+
 _Add screenshots of the homepage, AI search results, and add-listing flow here._
