@@ -118,6 +118,9 @@ In another terminal, test `GET /api/listings`, `GET /api/listings/1`, and post t
 This MVP has mock identity/contact actions, remote image URLs, basic keyword/location matching, no image upload, and no authentication, messaging, availability calendar, payments, or geospatial distance search. Natural-language fallback is intentionally narrower than Gemini. Future work could add authenticated profiles, moderation, availability and booking flows, notifications, image storage, maps, semantic embeddings, saved searches, and automated tests/CI.
 
 ## Screenshots
+<img width="1856" height="765" alt="image" src="https://github.com/user-attachments/assets/7d7f3b07-cae7-4a5b-9032-1a0ccf293f23" />
+
+<img width="1856" height="765" alt="image" src="https://github.com/user-attachments/assets/0ee055fa-a266-4f1e-8e05-71de75aa4c24" />
 
 <img width="1908" height="906" alt="image" src="https://github.com/user-attachments/assets/f23e87ec-3dec-4fc1-9b82-9ddebeb776c1" />
 
